@@ -27,3 +27,4 @@ markdown: kramdown
 # Other Options
 permalink: blog/:year/:month/:title/
 excerpt_separator: "<!--more-->"
+theme: jekyll-theme-minimal
