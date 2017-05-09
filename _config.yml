@@ -9,7 +9,7 @@
 title: FD
 email: fd@gmail.com
 description: FD
-baseurl: "" # the subpath of your site, e.g. /blog
+baseurl: "/web5" # the subpath of your site, e.g. /blog
 url: "http://felixdietrich.github.com" # the base hostname & protocol for your site
 future: true # allows future dated posts
 
